@@ -13,7 +13,7 @@ Using Node: `8.8.0`
 ```
 {
 	//...
-	"devDependencies": {
+	"dependencies": {
 		"ethereum_pack": "git+https://github.com/Thoughtscript/ethereum_pack.git"
 	},
 	/...
