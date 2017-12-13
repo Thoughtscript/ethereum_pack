@@ -9,7 +9,7 @@
     "url": "https://github.com/Thoughtscript/ethereum_pack"
   },
   "author": "Adam I. Gerard",
-  "dependencies": {
+  "devDependencies": {
       "ethereumjs-testrpc": "=6.0.3",
       "truffle": "=4.0.1",
       "web3": "=1.0.0-beta.18"
