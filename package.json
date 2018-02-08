@@ -12,6 +12,8 @@
   "devDependencies": {
       "ethereumjs-testrpc": "=6.0.3",
       "truffle": "=4.0.1",
+      "ganache": "git+https://github.com/trufflesuite/ganache.git"
+      "zeppelin-solidity": "git+https://github.com/OpenZeppelin/zeppelin-solidity.git"
       "web3": "=1.0.0-beta.29"
   }
 }
