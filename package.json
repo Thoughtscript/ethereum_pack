@@ -10,10 +10,11 @@
   },
   "author": "Adam I. Gerard",
   "devDependencies": {
-      "ethereumjs-testrpc": "=6.0.3",
-      "truffle": "=4.0.1",
       "ganache": "git+https://github.com/trufflesuite/ganache.git",
-      "zeppelin-solidity": "git+https://github.com/OpenZeppelin/zeppelin-solidity.git",
-      "web3": "=1.0.0-beta.29"
+      "ganache-cli": "=6.0.3",
+      "ganache-core": "=2.0.2",
+      "truffle": "=4.0.6",
+      "web3": "=1.0.0-beta.29",
+      "zeppelin-solidity": "git+https://github.com/OpenZeppelin/zeppelin-solidity.git"
   }
 }
